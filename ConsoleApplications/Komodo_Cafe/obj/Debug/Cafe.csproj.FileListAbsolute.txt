@@ -1,0 +1,5 @@
+C:\Console Applications\ConsoleApplications\Komodo_Cafe\bin\Debug\Komodo_Cafe.dll
+C:\Console Applications\ConsoleApplications\Komodo_Cafe\bin\Debug\Komodo_Cafe.pdb
+C:\Console Applications\ConsoleApplications\Komodo_Cafe\obj\Debug\Cafe.csprojAssemblyReference.cache
+C:\Console Applications\ConsoleApplications\Komodo_Cafe\obj\Debug\Komodo_Cafe.dll
+C:\Console Applications\ConsoleApplications\Komodo_Cafe\obj\Debug\Komodo_Cafe.pdb

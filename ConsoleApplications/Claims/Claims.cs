@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Claims
+namespace Komodo_Claims
 {
-    public enum ClaimType { Car, Home, Theft }
+    public enum TypeOfClaim { Car = 1, Home, Theft }
 
     public class Claims
     {
@@ -16,5 +16,6 @@ namespace Claims
         public DateTime DateOfIncident { get; set; }
         public DateTime DateOfClaim { get; set; }
         public bool IsValid { get; set; }
+        public TypeOfClaim ClaimType { get; set; }
     }
 }

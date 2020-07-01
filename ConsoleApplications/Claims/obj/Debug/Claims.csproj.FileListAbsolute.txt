@@ -1,0 +1,5 @@
+C:\Console Applications\ConsoleApplications\Claims\bin\Debug\Claims.dll
+C:\Console Applications\ConsoleApplications\Claims\bin\Debug\Claims.pdb
+C:\Console Applications\ConsoleApplications\Claims\obj\Debug\Claims.csprojAssemblyReference.cache
+C:\Console Applications\ConsoleApplications\Claims\obj\Debug\Claims.dll
+C:\Console Applications\ConsoleApplications\Claims\obj\Debug\Claims.pdb

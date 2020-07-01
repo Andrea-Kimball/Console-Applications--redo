@@ -1,0 +1,9 @@
+C:\Console Applications\ConsoleApplications\Claims_Console\bin\Debug\Claims_Console.exe.config
+C:\Console Applications\ConsoleApplications\Claims_Console\bin\Debug\Claims_Console.exe
+C:\Console Applications\ConsoleApplications\Claims_Console\bin\Debug\Claims_Console.pdb
+C:\Console Applications\ConsoleApplications\Claims_Console\bin\Debug\Claims.dll
+C:\Console Applications\ConsoleApplications\Claims_Console\bin\Debug\Claims.pdb
+C:\Console Applications\ConsoleApplications\Claims_Console\obj\Debug\Claims_Console.csprojAssemblyReference.cache
+C:\Console Applications\ConsoleApplications\Claims_Console\obj\Debug\Claims_Console.csproj.CopyComplete
+C:\Console Applications\ConsoleApplications\Claims_Console\obj\Debug\Claims_Console.exe
+C:\Console Applications\ConsoleApplications\Claims_Console\obj\Debug\Claims_Console.pdb

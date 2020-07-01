@@ -11,11 +11,28 @@ namespace Komodo_Claims
     public class Claims
     {
         public int ClaimID { get; set; }
+        public TypeOfClaim ClaimType { get; set; }
         public string Description { get; set; }
         public double ClaimAmount { get; set; }
         public DateTime DateOfIncident { get; set; }
         public DateTime DateOfClaim { get; set; }
         public bool IsValid { get; set; }
-        public TypeOfClaim ClaimType { get; set; }
+
+
+        public Claims() { }
+
+        public Claims(int claimID, TypeOfClaim claimType, string description, double claimAmount, DateTime dateOfIncident, DateTime dateOfClaim, bool isValid)
+        {
+
+            ClaimID = claimID;
+            ClaimType = claimType;
+            Description = description;
+            ClaimAmount = claimAmount;
+            DateOfIncident = dateOfIncident;
+            DateOfClaim = dateOfClaim;
+            IsValid = isValid;
+
+        }
+
     }
 }

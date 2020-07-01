@@ -17,7 +17,7 @@ namespace Komodo_Claims
         }
 
         //READ
-        public List<Claims> ViewClaim()
+        public List<Claims> ViewClaims()
         {
             return _listOfClaims;
         }
@@ -29,11 +29,12 @@ namespace Komodo_Claims
             if(original != null)
             {
                 original.ClaimID = newClaim.ClaimID;
+                original.ClaimType = newClaim.ClaimType;
                 original.Description = newClaim.Description;
                 original.DateOfIncident = newClaim.DateOfIncident;
                 original.DateOfClaim = newClaim.DateOfClaim;
                 original.ClaimAmount = newClaim.ClaimAmount;
-                original.ClaimType = newClaim.ClaimType;
+                
                 return true;
             }
             else
